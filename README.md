@@ -4,7 +4,7 @@ A game made in Java using SWING paint component. Physics projectile motion was i
 # Note: Projectile Motion was implemented inside a thread using the original Physics formula (Pixels where used instead of meters)
 ![image](https://user-images.githubusercontent.com/42210250/233824937-e6408c55-a45f-45ed-aba3-e20de142f685.png)
 
-
+# How to Install
 To play the game, run Game.exe to install the game in Windows and follow the instructions.
 
 # Main Screen
